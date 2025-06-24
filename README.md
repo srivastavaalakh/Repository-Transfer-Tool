@@ -22,7 +22,7 @@ A powerful tool for transferring Git repositories while rewriting commit history
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/anaskhan54/Git-Cheat.git
+   git clone https://github.com/srivastavaalakh/.Repository Transfer Toolgit
    cd Git-Cheat
    ```
 
